@@ -1,0 +1,7 @@
+To build main, type:
+
+  rake main   
+
+To clean build, type:
+
+  rake clean_main
